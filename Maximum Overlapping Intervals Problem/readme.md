@@ -13,4 +13,4 @@ register, find the point when there were maximum guests present in the event.**
 
     Output: Maximum number of guests is 3, present at time 7
     
-    ![alt text](https://www.techiedelight.com/wp-content/uploads/Maximum-Overlapping-Interval.png)
+    ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRcRRTKu7Bw75P99k4-CrFGUSeioIj9hUGURb1w2fVkq0svLX)
