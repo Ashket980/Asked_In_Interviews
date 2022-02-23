@@ -4,7 +4,8 @@
 
 **For example,** 
       
-      consider the following jobs with their starting time, finishing time, and associated profit. The maximum profit is 80, and the jobs involved in the maximum profit are: (1, 4, 30) and (5, 9, 50).
+      consider the following jobs with their starting time, finishing time, and associated profit.
+      The maximum profit is 80, and the jobs involved in the maximum profit are: (1, 4, 30) and (5, 9, 50).
 
         Job 1: (0, 6, 60)
         Job 2: (5, 9, 50)
