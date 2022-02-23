@@ -12,3 +12,5 @@ register, find the point when there were maximum guests present in the event.**
     departure = { 2, 7, 8, 12, 10, 15 }
 
     Output: Maximum number of guests is 3, present at time 7
+    
+    ![alt text](https://www.techiedelight.com/wp-content/uploads/Maximum-Overlapping-Interval.png)
