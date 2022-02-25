@@ -11,7 +11,8 @@
 
       Output: 2
       
-      Explanation: Element 3 is present at index 1 and 7, and element 2 is present at index 5. Their minimum absolute difference is min(abs(1-5), abs(7-5)) = 2
+      Explanation: Element 3 is present at index 1 and 7, and element 2 is present at index 5. Their minimum absolute difference 
+      is min(abs(1-5), abs(7-5)) = 2
 
 
       Input:
@@ -20,4 +21,5 @@
 
       Output: 3
       
-      Explanation: Element 2 is present at index 5, and element 5 is present at index 2 and 9. Their minimum absolute difference is min(abs(5-2), abs(5-9)) = 3
+      Explanation: Element 2 is present at index 5, and element 5 is present at index 2 and 9. Their minimum absolute difference 
+      is min(abs(5-2), abs(5-9)) = 3
