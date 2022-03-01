@@ -7,5 +7,6 @@ lowest to highest, and in which the subsequence is as long as possible. This sub
 
     {0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15}
 
-    The longest increasing subsequence is {0, 2, 6, 9, 11, 15} having length 6; the input sequence has no 7–member increasing subsequences. The longest increasing subsequence
-    in this example is not unique. For instance, {0, 4, 6, 9, 11, 15} and {0, 4, 6, 9, 13, 15} are other increasing subsequences of equal length in the same input sequence.
+    The longest increasing subsequence is {0, 2, 6, 9, 11, 15} having length 6; the input sequence has no 7–member increasing 
+    subsequences. The longest increasing subsequence in this example is not unique. For instance, {0, 4, 6, 9, 11, 15} and 
+    {0, 4, 6, 9, 13, 15} are other increasing subsequences of equal length in the same input sequence.
