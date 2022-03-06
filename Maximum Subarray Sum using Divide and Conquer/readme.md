@@ -8,6 +8,6 @@ subarrays are required to occupy consecutive positions within the original array
 
     For example,
 
-      Input:  nums[] = [2, -4, *1, 9, -6, *7,* -3]
+      Input:  nums[] = [2, -4, 1, 9, -6, 7, -3]
 
       Output: The maximum sum of the subarray is 11 (Marked in Green)
