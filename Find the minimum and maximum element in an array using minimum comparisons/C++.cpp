@@ -1,4 +1,37 @@
-imum = nums[i + 1];
+#include <iostream>
+#include <climits>
+#include <vector>
+using namespace std;
+ 
+// Optimized solution to find the minimum and maximum number in an array
+void findMinAndMax(vector<int> const &nums, int &min, int &max)
+{
+    // initialize minimum element by INFINITY and the maximum element by -INFINITY
+    max = INT_MIN, min = INT_MAX;
+    
+    int n = nums.size();
+ 
+    // if the array has an odd number of elements, ignore the last
+    // element and consider it later
+    bool odd = n & 1;
+    if (odd) {
+        n--;    // comparison
+    }
+ 
+    // compare elements in pairs, i.e., nums[i] and nums[i+1]
+    for (int i = 0; i < n; i = i + 2)
+    {
+        int maximum, minimum;
+ 
+        // find the maximum and minimum among nums[i] and nums[i+1]
+ 
+        if (nums[i] > nums[i + 1]) {  // 1st comparison
+            minimum = nums[i + 1],
+            maximum = nums[i];
+        }
+        else {
+            minimum = nums[i],
+            maximum = nums[i + 1];
         }
  
         // update max
