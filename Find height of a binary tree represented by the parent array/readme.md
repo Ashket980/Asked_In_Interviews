@@ -23,3 +23,9 @@ A leaf node will have a height of 0.**
       1 is present at index 3, which implies that the left or the right child of node 1 is 3.
       2 is present at index 4 and 5, which implies that the left and right children of node 2 are 4 and 5.
       4 is present at index 6 and 7, which implies that the left and right children of node 4 are 6 and 7.
+      
+ **The corresponding binary tree is:**
+ 
+   ![Link image](https://www.techiedelight.com/wp-content/uploads/Build-Binary-Tree-from-Parent-Array.png)
+ 
+ 
