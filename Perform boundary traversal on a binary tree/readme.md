@@ -4,5 +4,5 @@
 without any duplicates. For example, the following binary tree’s boundary traversal is 
 1, 2, 4, 8, 12, 13, 10, 6, 14, 11, 7, 3:**
 
-[Image](https://www.techiedelight.com/wp-content/uploads/Big-Binary-Tree-768x1034.png)
+![Link image](https://www.techiedelight.com/wp-content/uploads/Big-Binary-Tree-768x1034.png)
 
