@@ -1,4 +1,4 @@
-#Implementation of Treap Data Structure (Insert, Search, and Delete)
+# Implementation of Treap Data Structure (Insert, Search, and Delete)
 
 **This post will implement treap data structure and perform basic operations like insert, search, and delete on it.**
 
