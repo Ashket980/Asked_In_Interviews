@@ -4,6 +4,7 @@
 
 ### Built With
 
-* [C.c](https://en.wikipedia.org/wiki/C_(programming_language))
-* [C++.cpp](https://isocpp.org/)
-* [Java.java](
+* [C](https://en.wikipedia.org/wiki/C_(programming_language))
+* [C++](https://isocpp.org/)
+* [Java](https://www.java.com/en/)
+* [Python](https://www.python.org/)
