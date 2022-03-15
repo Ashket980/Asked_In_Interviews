@@ -8,5 +8,7 @@ An inorder successor of a node in the BST is the next node in the inorder sequen
 ![Link Image](https://www.techiedelight.com/wp-content/uploads/Inorder-successor-and-Inorder-predecessor.png)
 
 – The inorder successor of 8 is 10
+
 – The inorder successor of 12 is 15
+
 – The inorder successor of 25 does not exist.
