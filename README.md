@@ -1,4 +1,4 @@
-# Asked_In_Interviews
+# Asked_In_Interviews 💀
 
 *Here are Some recent questions asked in interviews of companies like Google, TCS, Amazon etc.*
 
